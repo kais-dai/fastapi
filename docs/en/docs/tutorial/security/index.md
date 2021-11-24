@@ -2,7 +2,7 @@
 
 There are many ways to handle security, authentication and authorization.
 
-And it normally is a complex and "difficult" topic.
+And it is normally a complex and "difficult" topic.
 
 In many frameworks and systems just handling security and authentication takes a big amount of effort and code (in many cases it can be 50% or more of all the code written).
 
